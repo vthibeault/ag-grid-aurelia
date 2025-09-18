@@ -13,7 +13,7 @@ import {generateBindables} from "./agUtils";
 @generateBindables(["colId", "sort", "sortedAt", "sortingOrder", "field", "headerValueGetter", "hideCol", "pinned",
     "tooltipField", "headerTooltip", "valueGetter", "keyCreator", "floatingFilterComponentFramework", "rowDrag", 
     "width", "minWidth", "maxWidth", "cellClass", "cellStyle", "cellRenderer", "cellRendererFramework",
-    "cellRendererParams", "cellEditor", "cellEditorFramework", "cellEditorParams", "cellEditorSelector", "floatingCellRenderer",
+    "cellRendererParams", "cellDataType", "cellEditor", "cellEditorFramework", "cellEditorParams", "cellEditorSelector", "floatingCellRenderer",
     "floatingCellRendererFramework", "floatingCellRendererParams", "cellFormatter", "floatingCellFormatter",
     "getQuickFilterText", "aggFunc", "rowGroupIndex", "pivotIndex", "comparator", "checkboxSelection", "suppressMenu",
     "suppressSorting", "suppressMovable", "suppressFilter", "unSortIcon", "suppressSizeToFit", "suppressResize",
